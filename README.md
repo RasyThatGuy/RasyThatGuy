@@ -1,6 +1,7 @@
 ## Hi There, Welcome To My Profile ❤️
 
-![Profile Views](https://komarev.com/ghpvc/?username=RasyThatGuy&color=blueviolet&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=RasyThatGuy&color=brightgreen&style=flat&label=Profile+Views)
+
 
 
 

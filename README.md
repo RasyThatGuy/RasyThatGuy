@@ -1,3 +1,10 @@
+# 💫 About Me
+> 💬 **Name:** Rasy  
+> 🎂 **Age:** 13.5  
+> 🌍 **Nationality:** 🇳🇱 / 🇷🇺  
+> 🎮 **Fav Game:** Gorilla Tag / Orion Drift
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RasyThatGuy&color=brightgreen&style=flat&label=Profile+Views)
 

@@ -3,6 +3,7 @@
 > 🎂 **Age:** 13.5  
 > 🌍 **Nationality:** 🇳🇱 / 🇷🇺  
 > 🎮 **Fav Game:** Gorilla Tag / Orion Drift
+> ❤️ **Believe In Yourself**
 
 
 

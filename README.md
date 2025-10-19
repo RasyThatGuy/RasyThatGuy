@@ -1,8 +1,13 @@
 # 💫 About Me
-> 💬 **Name:** Rasy  
+
+> 💬 **Name:** Rasy
+>
 > 🎂 **Age:** 13.5  ( 21 Jan 2012 )
-> 🌍 **Nationality:** 🇳🇱 / 🇷🇺  
+> 
+> 🌍 **Nationality:** 🇳🇱 / 🇷🇺
+> 
 > 🎮 **Fav Game:** Gorilla Tag / Orion Drift
+> 
 > 
 > ❤️ **Believe In Yourself**
 

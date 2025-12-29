@@ -6,9 +6,6 @@
 > 
 > 🌍 **Nationality:** 🇳🇱 / 🇷🇺
 > 
-> 🎮 **Fav Game:** Orion Drift
-> 
-> 
 > ❤️ **Believe In Yourself**
 
 

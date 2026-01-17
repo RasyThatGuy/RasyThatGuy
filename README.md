@@ -1,2 +1,1 @@
-![Profile Views](https://komarev.com/ghpvc/?username=RasyThatGuy&color=brightgreen&style=flat&label=Profile+Views)
-
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RasyThatGuy&layout=compact&theme=radical)
